@@ -1,2 +1,2 @@
 # Olha Floru
-my priojects
+my projects
